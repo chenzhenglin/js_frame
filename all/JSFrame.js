@@ -33,6 +33,7 @@
     w_.JSFrame = JSFrame;
 })(window);
 
+
 /*基础方法*/
 (function (b_) {
     b_.extend(b_,{
